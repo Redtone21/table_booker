@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'table_booker_db',
-        'USER': 'table_booker',
+        'USER': 'postgres',
         'PASSWORD': 'Success-2121',
         'HOST': 'localhost',
         'PORT': '5432',
